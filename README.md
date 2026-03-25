@@ -82,10 +82,12 @@ This project blends modern web technologies with creative engineering:
 ---
 
 ## 📂 Project Structure
+📁 Silicon-Mind
+├── 📄 index.html # Entry point of the application
 
----
+├── 📄 app.jsx # Core React logic & UI components
 
-## 📸 Screenshots
+├── 📄 style.css # Styling, animations, and UI effects
 
 
 ---
