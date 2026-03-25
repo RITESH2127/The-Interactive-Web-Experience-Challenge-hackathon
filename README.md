@@ -87,7 +87,6 @@ This project blends modern web technologies with creative engineering:
 
 ## 📸 Screenshots
 
-> *(Add screenshots here after deployment)*
 
 ---
 
